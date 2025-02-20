@@ -1,6 +1,5 @@
 # AppApi
-Application Android gestion des recettes
-Application de Recettes
+## Application Android gestion des recettes
 
 Cette application mobile multiplateforme a été développée avec NativeScript et Vue.js. Elle vous permet de gérer une collection de recettes de cuisine, avec la possibilité de créer, lire, modifier et supprimer des recettes (CRUD).
 

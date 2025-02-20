@@ -1,6 +1,6 @@
 # AppApi
 Application Android gestion des recettes
-# TP3-ProgMultiPlatform - Application de Recettes
+Application de Recettes
 
 Cette application mobile multiplateforme a été développée avec NativeScript et Vue.js. Elle vous permet de gérer une collection de recettes de cuisine, avec la possibilité de créer, lire, modifier et supprimer des recettes (CRUD).
 
